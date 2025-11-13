@@ -26,7 +26,7 @@ Each row is a single BLASTP hit between one Marmoset protein and one Old World M
 
 MarmosetAccessionJSON.txt, the summary file for the marmoset protein-coding FASTA sequence provided by NCBI.
 
-OldWorldNCBI-TerminalCode, the code input to the MacOS command line terminal to access and download specific MHC gene FASTA files.
+OldWorldNCBI-TerminalCode.txt, the code input to the MacOS command line terminal to access and download specific MHC gene FASTA files.
 
 ProjectPythonCode-Colab.ipynb, a copy of our Colab notebook containing all other code and analyses, including those done iniitally in Bridges2.
 
