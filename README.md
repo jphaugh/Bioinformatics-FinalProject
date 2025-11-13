@@ -3,7 +3,7 @@ Immunogenomics of Old World and New World primates project repository for Bioinf
 
 This Github repo contains the following files:
 
-AI-usage, a short statement of the AI tools used, prompts given, and validation.
+AI_usage.md, a short statement of the AI tools used, prompts given, and validation.
 
 AccessionJSON1.txt, a combination of the summary files for the Old World primate MHC gene protein-coding FASTA sequences provided by NCBI.
 Each dictionary entry contains information on taxa, NCBI accession number, gene, and gene description.
