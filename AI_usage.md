@@ -8,3 +8,5 @@ Prompts included (e.g.):
 
 Results were verified by testing the code and viewing outputs, looking to make sure it made biological sense and that the genes provided 
 from BLAST were, indeed, MHC genes (searching via NCBI gene databases).
+
+These datasets, including human genomes contain no information linked to any individual and are intended for research and comparative genomics. Use of these NCBI data complies with public-use agreements, and all original sources are properly cited. Analyses are limited to evolutionary and comparative questions (e.g., MHC orthology and sequence conservation) and do not make inferences about the health, traits, or identities of any individual. Results are interpreted in a cross-species context, avoiding overgeneralization to humans.
