@@ -35,3 +35,6 @@ ProjectPythonCode-Colab.ipynb, a copy of our Colab notebook (Python v.3.10) cont
 
 Colab code is in Python v.3.10. Bridges2 code runs via CentOS 8, similar to Unix.
 
+
+
+Direct any questions to jxh3230@mavs.uta.edu
