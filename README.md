@@ -3,9 +3,9 @@ Immunogenomics of Old World and New World primates project repository for Bioinf
 
 This Github repo contains the following files:
 
-AI_usage.md, a short statement of the AI tools used, prompts given, and validation.
+ai_usage.md, a short statement of the AI tools used, prompts given, and validation.
 
-AccessionJSON1.txt, a combination of the summary files for the Old World primate MHC gene protein-coding FASTA sequences provided by NCBI.
+AccessionSummaryJSON.json, a combination of the summary files for the Old World primate MHC gene protein-coding FASTA sequences provided by NCBI.
 Each dictionary entry contains information on taxa, NCBI accession number, gene, and gene description.
 
 Marmoset_vs_OldWorldMHC_filtered.tsv, a table in the BLAST "outfmt 6" format. 
@@ -26,9 +26,9 @@ Each row is a single BLASTP hit between one Marmoset protein and one Old World M
 
 MarmosetAccessionJSON.txt, the summary file for the marmoset protein-coding FASTA sequence provided by NCBI.
 
-OldWorldNCBI-TerminalCode.txt, the code input to the MacOS command line terminal to access and download specific MHC gene FASTA files.
+Updated-OldWorldNCBI-TerminalCode.txt, the code input to the MacOS command line terminal to access and download specific MHC gene FASTA files.
 
-ProjectPythonCode-Colab.ipynb, a copy of our Colab notebook containing all other code and analyses, including those done iniitally in Bridges2.
+Updated-ProjectPythonCode-Colab.ipynb, a copy of our Colab notebook containing all other code and analyses, including those done iniitally in Bridges2.
 
 
 
